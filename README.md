@@ -14,7 +14,6 @@ This project is a React-based dashboard application that allows users to dynamic
 - [Project Structure](#project-structure)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [License](#license)
 
 ## Installation
 
@@ -22,7 +21,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git
+    git clone https://github.com/dvarad20/Dashboard
     ```
 
 2. Navigate to the project directory:
