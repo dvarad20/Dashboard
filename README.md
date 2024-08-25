@@ -12,8 +12,6 @@ This project is a React-based dashboard application that allows users to dynamic
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
 
 ## Installation
 
